@@ -35,7 +35,7 @@
   "homepage": "https://github.com/zakplus/obfuscator-loader#readme",
   "dependencies": {
     "esprima": "^4.0.0",
-    "javascript-obfuscator": "^2.6.1",
+    "javascript-obfuscator": "^2.15.5",
     "loader-utils": "^1.1.0"
   },
   "devDependencies": {
