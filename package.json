@@ -9,10 +9,6 @@
   "scripts": {
     "linter": "eslint lib/index.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/zakplus/obfuscator-loader.git"
-  },
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
@@ -29,13 +25,9 @@
     "url": "https://valeriobianchi.com"
   },
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/zakplus/obfuscator-loader/issues"
-  },
-  "homepage": "https://github.com/zakplus/obfuscator-loader#readme",
   "dependencies": {
     "esprima": "^4.0.0",
-    "javascript-obfuscator": "^2.15",
+    "javascript-obfuscator": "^2.15.15
     "loader-utils": "^1.1.0"
   },
   "devDependencies": {
